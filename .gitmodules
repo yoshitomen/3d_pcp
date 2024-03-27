@@ -1,0 +1,3 @@
+[submodule "3dpcp_book_codes"]
+	path = 3dpcp_book_codes
+	url = git@github.com:3d-point-cloud-processing/3dpcp_book_codes.git
